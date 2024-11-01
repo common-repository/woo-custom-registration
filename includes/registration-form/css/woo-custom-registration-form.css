@@ -1,0 +1,27 @@
+.woocommerce-custom-registration-form-block {
+    padding: 10px 0;
+}
+
+.woocommerce-custom-registration-form-loader {
+    width: 35px;
+    display: none;
+}
+
+#woocommerce-custom-registration-form-common-wrapper{
+    display: none;
+}
+
+.woocommerce-custom-registration-form-block label {
+    display: block;
+    padding-bottom: 5px;
+    font-weight: bold;
+}
+
+.woocommerce-custom-registration-form-block p {
+    margin-top: 2px;
+    font-size: 11px;
+}
+
+.woocommerce-custom-registration-form-block input[type="text"] {
+    min-width: 300px;
+}
